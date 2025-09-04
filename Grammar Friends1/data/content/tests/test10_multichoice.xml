@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<exercise templateType="multichoice" styleSheet="multichoice_style.xml">
+	<title><![CDATA[10 All grammar topics]]></title>
+	<rubric><![CDATA[Choose the correct one.]]></rubric>
+	<audiopath></audiopath>
+	<sentence number="1" correct="1"><![CDATA[‘Who’ is used to ask about #]]>
+		<audiotext></audiotext>
+		<ans number="1">a person. </ans>
+		<ans number="2">a thing.</ans>
+		<ans number="3">a place.</ans>
+	</sentence>
+	<sentence number="2" correct="3"><![CDATA[‘What’ is used to ask about #]]>
+		<audiotext></audiotext>
+		<ans number="1">a place.</ans>
+		<ans number="2">a person.</ans>
+		<ans number="3">a thing.</ans>
+	</sentence>
+	<sentence number="3" correct="2"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">Yes, it’s.</ans>
+		<ans number="2">Yes, it is.</ans>
+		<ans number="3">Yes, is.</ans>
+	</sentence>
+	<sentence number="4" correct="1"><![CDATA[‘This’ is used to talk about #]]>
+		<audiotext></audiotext>
+		<ans number="1">one thing.</ans>
+		<ans number="2">two things.</ans>
+		<ans number="3">more than two things.</ans>
+	</sentence>
+	<sentence number="5" correct="1"><![CDATA[]]>
+		<ans number="1">These are my toys.</ans>
+		<ans number="2">This is my toys.</ans>
+		<ans number="3">This are my toys.</ans>
+	</sentence>
+	<sentence number="6" correct="2"><![CDATA[I’ve got #]]>
+		<audiotext></audiotext>
+		<ans number="1">five finger.</ans>
+		<ans number="2">five fingers.</ans>
+		<ans number="3">one fingers.</ans>
+	</sentence>
+	<sentence number="7" correct="1"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">Tom’s T-shirt is blue.</ans>
+		<ans number="2">Tom’s T-shirt blue is.</ans>
+		<ans number="3">Tom’s T-shirt blue.</ans>
+	</sentence>
+	<sentence number="8" correct="3"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">I’ve got a orange.</ans>
+		<ans number="2">I’ve got an banana. </ans>		
+		<ans number="3">I’ve got an apple.</ans>
+	</sentence>
+	<sentence number="9" correct="1"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">Is he a doctor?</ans>
+		<ans number="2">He a doctor is?</ans>
+		<ans number="3">A doctor he is?</ans>
+	</sentence>
+	<sentence number="10" correct="3"><![CDATA[My hat belongs to #]]>
+		<audiotext></audiotext>
+		<ans number="1">my friend.</ans>
+		<ans number="2">you.</ans>
+		<ans number="3">me.</ans>
+	</sentence>
+	<sentence number="11" correct="1"><![CDATA[# a sandwich?]]>
+		<audiotext></audiotext>
+		<ans number="1">Have you got </ans>
+		<ans number="2">Has you got</ans>
+		<ans number="3">Have got</ans>
+	</sentence>
+	<sentence number="12" correct="1"><![CDATA[# a cupboard in the bedroom.]]>
+		<audiotext></audiotext>
+		<ans number="1">There’s</ans>
+		<ans number="2">There are</ans>
+		<ans number="3">There</ans>
+	</sentence>
+	<sentence number="13" correct="2"><![CDATA[# swim?]]>
+		<audiotext></audiotext>
+		<ans number="1">Can</ans>
+		<ans number="2">Can he</ans>
+		<ans number="3">Let's</ans>
+	</sentence>
+	<sentence number="14" correct="2"><![CDATA[Are these your shoes?   #]]>
+		<audiotext></audiotext>
+		<ans number="1">No, they isn’t.</ans>
+		<ans number="2">No, they aren’t.</ans>
+		<ans number="3">No, it isn’t.</ans>
+	</sentence>
+	<sentence number="15" correct="3"><![CDATA[Jamie’s hat is #]]>
+		<audiotext></audiotext>
+		<ans number="1">in his head.</ans>
+		<ans number="2">under his head.</ans>
+		<ans number="3">on his head.</ans>
+	</sentence>
+</exercise>

@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<exercise templateType="multichoice" styleSheet="multichoice_style.xml">
+	<title><![CDATA[1 Wh- questions]]></title>
+	<rubric><![CDATA[Choose the correct one.]]></rubric>
+	<audiopath></audiopath>
+	<sentence number="1" correct="2"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">Who is your name?</ans>
+		<ans number="2">What’s your name?</ans>
+		<ans number="3">Who this is?</ans>
+	</sentence>
+	<sentence number="2" correct="1"><![CDATA[# are you?   I’m fine, thank you.]]>
+		<audiotext></audiotext>
+		<ans number="1">How</ans>
+		<ans number="2">Who</ans>
+		<ans number="3">What</ans>
+	</sentence>
+	<sentence number="3" correct="3"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">How old you are?</ans>
+		<ans number="2">How are you old?</ans>
+		<ans number="3">How old are you?</ans>
+	</sentence>
+	<sentence number="4" correct="1"><![CDATA[#   This is Alison.]]>
+		<audiotext></audiotext>
+		<ans number="1">Who’s this?</ans>
+		<ans number="2">Where is it?</ans>
+		<ans number="3">How old are you?</ans>
+	</sentence>
+	<sentence number="5" correct="1"><![CDATA[# this?   It’s a pencil.]]>
+		<ans number="1">What’s</ans>
+		<ans number="2">Who’s</ans>
+		<ans number="3">How’s</ans>
+	</sentence>
+	<sentence number="6" correct="2"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">What this is?</ans>
+		<ans number="2">What’s this?</ans>
+		<ans number="3">What this?</ans>
+	</sentence>
+	<sentence number="7" correct="3"><![CDATA[What’s this?   #]]>
+		<audiotext></audiotext>
+		<ans number="1">It door.</ans>
+		<ans number="2">It’s door.</ans>
+		<ans number="3">It’s a door.</ans>
+	</sentence>
+	<sentence number="8" correct="3"><![CDATA[What’s this?   #]]>
+		<audiotext></audiotext>
+		<ans number="1">It’s a orange.</ans>
+		<ans number="2">It an orange.</ans>		
+		<ans number="3">It’s an orange.</ans>
+	</sentence>
+	<sentence number="9" correct="2"><![CDATA[Where’s Dad?   #]]>
+		<audiotext></audiotext>
+		<ans number="1">He’s fine.</ans>
+		<ans number="2">He’s at the park. </ans>
+		<ans number="3">He’s my dad.</ans>
+	</sentence>
+	<sentence number="10" correct="3"><![CDATA[# Grandma?   She’s in the kitchen.]]>
+		<audiotext></audiotext>
+		<ans number="1">What’s</ans>
+		<ans number="2">Who’s</ans>
+		<ans number="3">Where’s</ans>
+	</sentence>
+	<sentence number="11" correct="2"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">Where the living room is?</ans>
+		<ans number="2">Where’s the living room?</ans>
+		<ans number="3">Where the living room?</ans>
+	</sentence>
+	<sentence number="12" correct="3"><![CDATA[# Tom and Mary?   They’re downstairs.]]>
+		<audiotext></audiotext>
+		<ans number="1">Where’s</ans>
+		<ans number="2">Where</ans>
+		<ans number="3">Where are</ans>
+	</sentence>
+	<sentence number="13" correct="1"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">Where are Mum and Dad?</ans>
+		<ans number="2">Where Mum and Dad are?</ans>
+		<ans number="3">Where is Mum and Dad?</ans>
+	</sentence>
+	<sentence number="14" correct="1"><![CDATA[# like?]]>
+		<audiotext></audiotext>
+		<ans number="1">What do you</ans>
+		<ans number="2">What you do</ans>
+		<ans number="3">What you</ans>
+	</sentence>
+	<sentence number="15" correct="2"><![CDATA[What do you like?   #]]>
+		<audiotext></audiotext>
+		<ans number="1">Like yogurt.</ans>
+		<ans number="2">I like yogurt.</ans>
+		<ans number="3">Yes, I do.</ans>
+	</sentence>
+</exercise>

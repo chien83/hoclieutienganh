@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+	* {
+		margin:0;
+		padding:0;
+		}
+
+height,body {
+	height:100%;
+	background-color:#000000;
+	background-image: url(../images/gf2_red_bottom.png);
+	background-repeat:repeat;
+	}
+
+#redBack {
+	margin:0;
+	padding:0;
+	width:100%;
+	height:100%;
+	background-image: url(../images/gf2_red_bottom.png);
+	background-repeat:repeat;
+/*	z-index:0;*/	
+	}
+#distance {
+	margin:0 auto 0 auto;
+	padding:0;
+	width:100%;
+	background-image:url(../images/gf2_red.jpg);
+	background-repeat:repeat-x;
+	z-index:1;	
+	}
+
+#container {
+	margin:0;
+	padding:0;
+	width:800px;
+	height:600px;
+	margin: 0 auto;
+	}
+

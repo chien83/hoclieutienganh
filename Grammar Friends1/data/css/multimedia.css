@@ -1,0 +1,192 @@
+/* css for OUP ELT multimedia*/
+/* copyright Oxford University Press 2007 */
+
+
+/*** global styles ***/
+
+
+* {
+	margin:0px;
+	padding:0px;
+}
+
+body {
+	text-align:center;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background:#eee url(../images/body_bg.gif) repeat-x;
+}
+
+p {
+	font-size:small;
+	color:#444;
+	padding-bottom:8px;
+}
+
+h1 {
+	color:#000066;
+	margin-bottom:10px;
+	text-align:left;
+	font-size:xx-large;
+}
+
+h2 {
+	font-size:small;
+	color:#000066;
+	padding:12px 4px 0px 0px
+}
+
+h3 {
+	font-size:small;
+	color:#666666;
+	text-align:left;
+	padding:12px 0px 2px 0px;
+}
+
+/***header bar style***/
+#oup_header {
+	text-align:left;
+	margin-left:auto;
+	margin-right:auto;
+	width:700px;
+	background-image:url(../images/body_bg.gif);
+	background-repeat:repeat-x;
+}
+
+/***central styles***/
+
+#container {
+	width:700px;
+	height:500px;
+	padding:10px 20px 20px 20px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	border-left:1px solid #ccc;
+	border-right:1px solid #ccc;
+	border-bottom:1px solid #ccc;
+	background-image: url(../images/splash_bg.jpg);
+	background-repeat:repeat-x;
+	background-color: #fff;
+	overflow:hidden;
+}
+
+#content_holder {
+	width:700px;
+	height:500px;
+	margin-top:0px;
+	margin-bottom:10px;
+	margin-left:0px;
+	margin-right:0px;
+	background-color:none;
+}
+
+#logo {
+	background-image:none;
+	background-repeat:no-repeat;
+	overflow:hidden;
+	background-color:none;
+	height:97px;
+	width:611px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#cover {
+	margin-left:auto;
+	margin-right:auto;
+	border:none;
+}
+
+#introtext {
+	overflow:hidden;
+	float:right;
+	width:480px;
+	height:350px;
+	margin-bottom:0px;
+}
+
+#instructionsText {
+	font-size:17px;
+	font-weight: bold;
+	color: #ffffff;
+}
+
+#maintext {
+	float:left;
+	width:480px;
+	text-align:left;
+	overflow:hidden;
+}
+
+#infobox {
+	padding:12px 8px 4px 8px;
+	text-align:left;
+	float:right;
+	/*	height: 320px;*/
+	width:190px;
+	color:#999999;
+	border-bottom:2px solid #ccc;
+	border-right:2px solid #ccc;
+	border-top:1px solid #ccc;
+	border-left:1px solid #ccc;
+	background-color:#fff;
+	overflow:hidden;
+	height: 384px;
+}
+
+#infobox p {
+	color:#999999;
+	font-size:x-small;
+}
+
+#startlink {
+	background-color:none;
+	background-repeat:no-repeat;
+	margin-top:30px;
+}
+
+#startlink a {
+	display:block;
+	width:180px;
+	height:226px;
+	margin:0 auto 0 auto;
+	padding:1px 0 0 1px;
+	border-width:6px;
+	border-style:outset;
+	border-color:#FF9900;
+	background-image:url(../images/book_cover.jpg);
+	text-decoration:none;
+}
+
+#startlink a:hover {
+	display:block;
+	padding:0 0 0 0;
+	border-width:6px;
+	border-style:inset;
+	border-color:#FF9900;
+	text-decoration:none;
+	background-image:url(../images/book_cover_alt.jpg);
+}
+
+#checks p {
+	font-size:x-small;
+	color:#444;
+	padding:2px 0px 0px 6px;
+}
+
+#studentssite {
+	clear:both;
+	margin:0;
+	padding:8px;
+	background-color:#fff;
+	border:1px dashed #ccc;
+	text-align:center;
+	display: none;
+}
+
+#copyright {
+	clear:both;
+	margin-top:10px;
+	color:#999;
+	font-size:x-small;
+}

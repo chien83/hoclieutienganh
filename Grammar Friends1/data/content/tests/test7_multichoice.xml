@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<exercise templateType="multichoice" styleSheet="multichoice_style.xml">
+	<title><![CDATA[7 Like; adjectives]]></title>
+	<rubric><![CDATA[Choose the correct one.]]></rubric>
+	<audiopath></audiopath>
+	<sentence number="1" correct="3"><![CDATA[# tigers.]]>
+		<audiotext></audiotext>
+		<ans number="1">I likes</ans>
+		<ans number="2">Like</ans>
+		<ans number="3">I like</ans>
+	</sentence>
+	<sentence number="2" correct="1"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">I like snakes.</ans>
+		<ans number="2">I like snake.</ans>
+		<ans number="3">Likes snakes.</ans>
+	</sentence>
+	<sentence number="3" correct="3"><![CDATA[# pears.]]>
+		<audiotext></audiotext>
+		<ans number="1">I haven’t like</ans>
+		<ans number="2">Don’t like</ans>
+		<ans number="3">I don’t like</ans>
+	</sentence>
+	<sentence number="4" correct="2"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">I not like carrots.</ans>
+		<ans number="2">I don’t like carrots.</ans>
+		<ans number="3">I don’t carrots.</ans>
+	</sentence>
+	<sentence number="5" correct="3"><![CDATA[# elephants?]]>
+		<ans number="1">Do like</ans>
+		<ans number="2">Do like you</ans>
+		<ans number="3">Do you like</ans>
+	</sentence>
+	<sentence number="6" correct="2"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">Do you like a sandwich?</ans>
+		<ans number="2">Do you like sandwiches? </ans>
+		<ans number="3">Do you like sandwich?</ans>
+	</sentence>
+	<sentence number="7" correct="2"><![CDATA[Do you like fish?   #]]>
+		<audiotext></audiotext>
+		<ans number="1">Yes, I can.</ans>
+		<ans number="2">Yes, I do.</ans>
+		<ans number="3">Yes, I have.</ans>
+	</sentence>
+	<sentence number="8" correct="3"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">What you like?</ans>
+		<ans number="2">What you do like?</ans>		
+		<ans number="3">What do you like?</ans>
+	</sentence>
+	<sentence number="9" correct="1"><![CDATA[Do you like giraffes?   #]]>
+		<audiotext></audiotext>
+		<ans number="1">No, I don’t.</ans>
+		<ans number="2">No, not like.</ans>
+		<ans number="3">No, don’t.</ans>
+	</sentence>
+	<sentence number="10" correct="1"><![CDATA[Do you like milk?   Yes, #]]>
+		<audiotext></audiotext>
+		<ans number="1">I do.</ans>
+		<ans number="2">do.</ans>
+		<ans number="3">I have.</ans>
+	</sentence>
+	<sentence number="11" correct="2"><![CDATA[What do you like?   #]]>
+		<audiotext></audiotext>
+		<ans number="1">Yes, I do. </ans>
+		<ans number="2">I like tomatoes.  </ans>
+		<ans number="3">No, I don’t.</ans>
+	</sentence>
+	<sentence number="12" correct="2"><![CDATA[#   No, I don’t.]]>
+		<audiotext></audiotext>
+		<ans number="1">What do you like?</ans>
+		<ans number="2">Do you like meat?</ans>
+		<ans number="3">What have you got?</ans>
+	</sentence>
+	<sentence number="13" correct="1"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">Elephants are big.</ans>
+		<ans number="2">Elephants are bigs.</ans>
+		<ans number="3">Elephants big.</ans>
+	</sentence>
+	<sentence number="14" correct="1"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">It’s long.</ans>
+		<ans number="2">It long.</ans>
+		<ans number="3">It longs.</ans>
+	</sentence>
+	<sentence number="15" correct="1"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">She hasn’t got long hair.</ans>
+		<ans number="2">She’s hasn’t got longs hairs.</ans>
+		<ans number="3">She hasn’t got a long hairs.</ans>
+	</sentence>
+</exercise>

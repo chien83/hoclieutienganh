@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exercise>
+	<rubric>
+		<![CDATA[<b>2 Write <i>a</i> or <i>an</i>.</b>]]>
+	</rubric>
+	<!--<audio>content/pdCCR1/assets/dialogue.mp3</audio>-->
+	<questions>
+		<question>
+			<sentence>This is [#] cat.</sentence>
+			<answers>
+				<answer>a</answer>
+			</answers>
+
+		</question>
+		<question>
+			<sentence>What's this? It's [#] orange.</sentence>
+			<answers>
+				<answer>an</answer>
+			</answers>
+
+		</question>
+		<question>
+			<sentence>It's [#] rubber.</sentence>
+			<answers>
+				<answer>a</answer>
+			</answers>
+
+		</question>
+		<question>
+			<sentence>This is [#] apple.</sentence>
+			<answers>
+				<answer>an</answer>
+			</answers>
+
+		</question>
+		<question>
+			<sentence>What's this? It's [#] elephant.</sentence>
+			<answers>
+				<answer>an</answer>
+			</answers>
+
+		</question>
+	</questions>
+</exercise>

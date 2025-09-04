@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<exercise templateType="multichoice" styleSheet="multichoice_style.xml">
+	<title><![CDATA[6 Have got]]></title>
+	<rubric><![CDATA[Choose the correct one.]]></rubric>
+	<audiopath></audiopath>
+	<sentence number="1" correct="3"><![CDATA[# sandwich.]]>
+		<audiotext></audiotext>
+		<ans number="1">Have got a</ans>
+		<ans number="2">I got a</ans>
+		<ans number="3">I’ve got a</ans>
+	</sentence>
+	<sentence number="2" correct="1"><![CDATA[# got two pears.]]>
+		<audiotext></audiotext>
+		<ans number="1">I’ve</ans>
+		<ans number="2">You</ans>
+		<ans number="3">I</ans>
+	</sentence>
+	<sentence number="3" correct="3"><![CDATA[# you got two bananas?]]>
+		<audiotext></audiotext>
+		<ans number="1">Do</ans>
+		<ans number="2">’ve</ans>
+		<ans number="3">Have</ans>
+	</sentence>
+	<sentence number="4" correct="3"><![CDATA[Have you got a drink?   #]]>
+		<audiotext></audiotext>
+		<ans number="1">Yes, I have got.</ans>
+		<ans number="2">Yes, I got.</ans>
+		<ans number="3">Yes, I have.</ans>
+	</sentence>
+	<sentence number="5" correct="2"><![CDATA[]]>
+		<ans number="1">I’ve got two biscuit.</ans>
+		<ans number="2">I’ve got two biscuits.</ans>
+		<ans number="3">I got two biscuits.</ans>
+	</sentence>
+	<sentence number="6" correct="3"><![CDATA[Have you got a coat?   No, #]]>
+		<audiotext></audiotext>
+		<ans number="1">haven’t.</ans>
+		<ans number="2">I don’t.</ans>
+		<ans number="3">I haven’t.</ans>
+	</sentence>
+	<sentence number="7" correct="1"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">Have you got a sister?</ans>
+		<ans number="2">Have you a sister?</ans>
+		<ans number="3">Have you got sister?</ans>
+	</sentence>
+	<sentence number="8" correct="3"><![CDATA[Have you got an apple?   #]]>
+		<audiotext></audiotext>
+		<ans number="1">No, I don’t.</ans>
+		<ans number="2">No, I can’t.</ans>		
+		<ans number="3">No, I haven’t.</ans>
+	</sentence>
+	<sentence number="9" correct="2"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">I haven’t got drink.</ans>
+		<ans number="2">I haven’t got a drink.</ans>
+		<ans number="3">I hasn’t got a drink.</ans>
+	</sentence>
+	<sentence number="10" correct="2"><![CDATA[# train.]]>
+		<audiotext></audiotext>
+		<ans number="1">He got a </ans>
+		<ans number="2">He’s got a</ans>
+		<ans number="3">He’s got</ans>
+	</sentence>
+	<sentence number="11" correct="1"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">She’s got two dresses.</ans>
+		<ans number="2">She got two dresses.</ans>
+		<ans number="3">She is got two dresses.</ans>
+	</sentence>
+	<sentence number="12" correct="2"><![CDATA[This is a triangle. #]]>
+		<audiotext></audiotext>
+		<ans number="1">It don’t have four sides.</ans>
+		<ans number="2">It hasn’t got four sides. </ans>
+		<ans number="3">It haven’t got four sides.</ans>
+	</sentence>
+	<sentence number="13" correct="1"><![CDATA[This is my brother. #]]>
+		<audiotext></audiotext>
+		<ans number="1">He’s got short hair.</ans>
+		<ans number="2">She’s got short hair.</ans>
+		<ans number="3">It’s got short hair.</ans>
+	</sentence>
+	<sentence number="14" correct="1"><![CDATA[Have you got a bike?   #]]>
+		<audiotext></audiotext>
+		<ans number="1">Yes, I have.</ans>
+		<ans number="2">Yes, have.</ans>
+		<ans number="3">Yes, have got.</ans>
+	</sentence>
+	<sentence number="15" correct="3"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">He hasn’t got bikes.</ans>
+		<ans number="2">He haven’t got two bikes.</ans>
+		<ans number="3">He hasn’t got two bikes.</ans>
+	</sentence>
+</exercise>

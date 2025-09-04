@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<styles>
+	<images>
+		<image item="labels_bg">shared_assets/generic/template_number_bg.swf</image>
+		<image item="template_bg"></image>
+		<image item="checkpoints" xpos="-22">shared_assets/generic/template_checkpoint.swf</image>
+	</images>
+	<buttons>
+		<button item="checkAns" visible="true" xpos="138" ypos="382">
+			<image>shared_assets/generic/button_check_answers.swf</image>
+			<audio>shared_assets/click_low.mp3</audio>
+		</button>
+		<button item="tryAgain" visible="true" xpos="292" ypos="382">
+			<image>shared_assets/generic/button_try_again.swf</image>
+			<audio>shared_assets/click_low.mp3</audio>
+		</button>
+		<button item="seeAns" visible="true" xpos="417" ypos="382" attempted="2">
+			<image>shared_assets/generic/button_see_answers.swf</image>
+			<audio>shared_assets/click_low.mp3</audio>
+		</button>
+		<button item="listen" visible="false" xpos="672" ypos="382">
+			<image>shared_assets/generic/button_listen.swf</image>
+			<audio>shared_assets/click_low.mp3</audio>
+		</button>
+	</buttons>
+	<assets>
+		<asset item="rubric" xpos="18" ypos="14" width="735" color="666666" />
+		<asset item="questions" startypos="100" startxpos="20" yspacer="45" xspacer="186" />
+		<asset item="heading" color="666666" txtalign="center" fontsize="17" phonetic="true" />
+		<asset item="scoreBar" xpos="18" ypos="381">
+			<image>shared_assets/generic/template_scorebar.swf</image>
+		</asset>
+		<asset item="dragDrop" txtalign="center">
+			<image>shared_assets/generic/template_dragdrop_lg.swf</image>
+			<audios>
+				<audio type="click">shared_assets/click_high.mp3</audio>
+				<audio type="drop">shared_assets/drop.mp3</audio>
+			</audios>
+		</asset>
+	</assets>
+</styles>

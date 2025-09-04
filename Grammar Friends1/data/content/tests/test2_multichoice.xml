@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<exercise templateType="multichoice" styleSheet="multichoice_style.xml">
+	<title><![CDATA[2 Yes/no questions]]></title>
+	<rubric><![CDATA[Choose the correct one.]]></rubric>
+	<audiopath></audiopath>
+	<sentence number="1" correct="2"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">Is a car?</ans>
+		<ans number="2">Is this a car?</ans>
+		<ans number="3">This is car?</ans>
+	</sentence>
+	<sentence number="2" correct="3"><![CDATA[Is this a puzzle?   #]]>
+		<audiotext></audiotext>
+		<ans number="1">There is a puzzle.</ans>
+		<ans number="2">This a puzzle.</ans>
+		<ans number="3">Yes, it is.</ans>
+	</sentence>
+	<sentence number="3" correct="1"><![CDATA[# a window?]]>
+		<audiotext></audiotext>
+		<ans number="1">Is this</ans>
+		<ans number="2">This is</ans>
+		<ans number="3">Is</ans>
+	</sentence>
+	<sentence number="4" correct="1"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">Is he a policeman?</ans>
+		<ans number="2">He a policeman?</ans>
+		<ans number="3">Is it a policeman?</ans>
+	</sentence>
+	<sentence number="5" correct="3"><![CDATA[# a nurse?]]>
+		<ans number="1">She</ans>
+		<ans number="2">It is</ans>
+		<ans number="3">Is she</ans>
+	</sentence>
+	<sentence number="6" correct="3"><![CDATA[Is she a doctor?   #]]>
+		<audiotext></audiotext>
+		<ans number="1">Yes, doctor.</ans>
+		<ans number="2">Yes, she doctor.</ans>
+		<ans number="3">Yes, she is.</ans>
+	</sentence>
+	<sentence number="7" correct="2"><![CDATA[#   Yes, I am.]]>
+		<audiotext></audiotext>
+		<ans number="1">Is you my brother?</ans>
+		<ans number="2">Are you my brother?</ans>
+		<ans number="3">You my brother?</ans>
+	</sentence>
+	<sentence number="8" correct="2"><![CDATA[# my trousers?]]>
+		<audiotext></audiotext>
+		<ans number="1">Are</ans>
+		<ans number="2">Are they</ans>
+		<ans number="3">Is they</ans>
+	</sentence>
+	<sentence number="9" correct="1"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">Is she in the kitchen?</ans>
+		<ans number="2">In the kitchen she is?</ans>
+		<ans number="3">Are she in the kitchen?</ans>
+	</sentence>
+	<sentence number="10" correct="2"><![CDATA[# in the garden?   No, they aren’t.]]>
+		<audiotext></audiotext>
+		<ans number="1">Is they</ans>
+		<ans number="2">Are they</ans>
+		<ans number="3">Is he</ans>
+	</sentence>
+	<sentence number="11" correct="3"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">Like you juice?</ans>
+		<ans number="2">Are you like juice?</ans>
+		<ans number="3">Do you like juice?</ans>
+	</sentence>
+	<sentence number="12" correct="2"><![CDATA[# fish?  Yes, I do.]]>
+		<audiotext></audiotext>
+		<ans number="1">What do you like</ans>
+		<ans number="2">Do you like</ans>
+		<ans number="3">Are you like</ans>
+	</sentence>
+	<sentence number="13" correct="2"><![CDATA[Is there a bed?   #]]>
+		<audiotext></audiotext>
+		<ans number="1">Yes, is.</ans>
+		<ans number="2">Yes, there is.</ans>
+		<ans number="3">Yes, there do.</ans>
+	</sentence>
+	<sentence number="14" correct="3"><![CDATA[#   Yes, he can.]]>
+		<audiotext></audiotext>
+		<ans number="1">Do he can sing?</ans>
+		<ans number="2">Can he to sing?</ans>
+		<ans number="3">Can he sing?</ans>
+	</sentence>
+	<sentence number="15" correct="1"><![CDATA[# make a sandcastle?   Yes, I can.]]>
+		<audiotext></audiotext>
+		<ans number="1">Can you</ans>
+		<ans number="2">Can you to</ans>
+		<ans number="3">Can </ans>
+	</sentence>
+</exercise>

@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<exercise templateType="multichoice" styleSheet="multichoice_style.xml">
+	<title><![CDATA[9 Can; let's; imperative]]></title>
+	<rubric><![CDATA[Choose the correct one.]]></rubric>
+	<audiopath></audiopath>
+	<sentence number="1" correct="3"><![CDATA[A fish #]]>
+		<audiotext></audiotext>
+		<ans number="1">swim can.</ans>
+		<ans number="2">swim.</ans>
+		<ans number="3">can swim.</ans>
+	</sentence>
+	<sentence number="2" correct="1"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">Jamie can ride a bike.</ans>
+		<ans number="2">Jamie ride a bike.</ans>
+		<ans number="3">Jamie a bike can ride.</ans>
+	</sentence>
+	<sentence number="3" correct="3"><![CDATA[A snake #]]>
+		<audiotext></audiotext>
+		<ans number="1">run.</ans>
+		<ans number="2">not run.</ans>
+		<ans number="3">can’t run.</ans>
+	</sentence>
+	<sentence number="4" correct="2"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">Dave he can’t fly.</ans>
+		<ans number="2">Dave can’t fly.	</ans>
+		<ans number="3">Dave not fly.</ans>
+	</sentence>
+	<sentence number="5" correct="1"><![CDATA[]]>
+		<ans number="1">Can he sing?</ans>
+		<ans number="2">He can sing?</ans>
+		<ans number="3">Can sing?</ans>
+	</sentence>
+	<sentence number="6" correct="1"><![CDATA[Can she climb?   # can.]]>
+		<audiotext></audiotext>
+		<ans number="1">Yes, she</ans>
+		<ans number="2">No, she</ans>
+		<ans number="3">Yes,</ans>
+	</sentence>
+	<sentence number="7" correct="2"><![CDATA[Can it talk?   #]]>
+		<audiotext></audiotext>
+		<ans number="1">Yes, it is.</ans>
+		<ans number="2">Yes, it can.</ans>
+		<ans number="3">Yes, it has.</ans>
+	</sentence>
+	<sentence number="8" correct="2"><![CDATA[#   No, he can’t.]]>
+		<audiotext></audiotext>
+		<ans number="1">Can it swim?</ans>
+		<ans number="2">Can he swim?</ans>		
+		<ans number="3">Can she swim?</ans>
+	</sentence>
+	<sentence number="9" correct="3"><![CDATA[Can she fly?   #]]>
+		<audiotext></audiotext>
+		<ans number="1">No, can’t.</ans>
+		<ans number="2">No, she can.</ans>
+		<ans number="3">No, she can’t.</ans>
+	</sentence>
+	<sentence number="10" correct="1"><![CDATA[Can it run?   #]]>
+		<audiotext></audiotext>
+		<ans number="1">Yes, it can.</ans>
+		<ans number="2">Yes, she can.</ans>
+		<ans number="3">Yes, he can.</ans>
+	</sentence>
+	<sentence number="11" correct="3"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">Let’s football.</ans>
+		<ans number="2">Let’s go football.</ans>
+		<ans number="3">Let’s play football.</ans>
+	</sentence>
+	<sentence number="12" correct="2"><![CDATA[# a sandcastle.]]>
+		<audiotext></audiotext>
+		<ans number="1">Let make</ans>
+		<ans number="2">Let’s make</ans>
+		<ans number="3">Let's can make</ans>
+	</sentence>
+	<sentence number="13" correct="1"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">Stand up!</ans>
+		<ans number="2">Stand up you!</ans>
+		<ans number="3">Stand you up!</ans>
+	</sentence>
+	<sentence number="14" correct="1"><![CDATA[# stand up.]]>
+		<audiotext></audiotext>
+		<ans number="1">Don’t</ans>
+		<ans number="2">You not</ans>
+		<ans number="3">Not</ans>
+	</sentence>
+	<sentence number="15" correct="2"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">Not jump!</ans>
+		<ans number="2">Don’t jump!</ans>
+		<ans number="3">Doesn’t jump!</ans>
+	</sentence>
+</exercise>

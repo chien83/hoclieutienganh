@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<styles>
+	<images>
+		<image item="labels_bg">shared_assets/generic/template_number_bg.swf</image>
+		<image item="template_bg"></image>
+		<image item="categories_bg" xoffset="-17" yoffset="-3">shared_assets/generic/bg_cat2_col2_x_sm.swf</image>
+		<image item="checkpoints" xoffset="98" yoffset="-3">shared_assets/generic/template_checkpoint.swf</image>
+	</images>
+	<buttons>
+		<button item="checkAns" visible="true" xpos="138" ypos="382">
+			<image>shared_assets/generic/button_check_answers.swf</image>
+			<audio>shared_assets/click_low.mp3</audio>
+		</button>
+		<button item="tryAgain" visible="true" xpos="292" ypos="382">
+			<image>shared_assets/generic/button_try_again.swf</image>
+			<audio>shared_assets/click_low.mp3</audio>
+		</button>
+		<button item="seeAns" visible="true" xpos="417" ypos="382" attempted="2">
+			<image>shared_assets/generic/button_see_answers.swf</image>
+			<audio>shared_assets/click_low.mp3</audio>
+		</button>
+		<button item="listen" visible="false" xpos="672" ypos="382">
+			<image>shared_assets/generic/button_listen.swf</image>
+			<audio>shared_assets/click_low.mp3</audio>
+		</button>
+		<button item="audioIcon" visible="true" xpos="25" ypos="40" yspacer="30">
+			<image>shared_assets/generic/button_audio_icon.swf</image>
+			<audio>shared_assets/click_low.mp3</audio>
+		</button>
+	</buttons>
+	<assets>
+		<asset item="alt_text" default="Verdana" alt="TimesNewRomanPhoneticsOUP" alt_start="[" alt_end="]" />
+		<asset item="rubric_main" xpos="18" ypos="14" width="680" color="666666" />
+		<asset item="examples" color="666666" xpos="30" ypos="20" yspacer="30" fontsize="13" alt_fontsize="18" alt_yoffset="-2" />
+		<asset item="rubric_cate" xpos="18" ypos="105" width="680" color="000000" />
+		<asset item="heading" color="666666" txtalign="center" fontsize="14" alt_fontsize="17" alt_yoffset="-1" yspacer="15" />
+		<asset item="categories" startxpos="22" startypos="100" yspacer="35" xspacer="257" />
+		<asset item="scoreBar" xpos="18" ypos="381">
+			<image>shared_assets/generic/template_scorebar.swf</image>
+		</asset>
+		<asset item="dragDrop" txtalign="center" columns="2" colspacer="118">
+			<image>shared_assets/generic/template_dragdrop_sm.swf</image>
+			<audios>
+				<audio type="click">shared_assets/click_high.mp3</audio>
+				<audio type="drop">shared_assets/drop.mp3</audio>
+			</audios>
+		</asset>
+	</assets>
+</styles>

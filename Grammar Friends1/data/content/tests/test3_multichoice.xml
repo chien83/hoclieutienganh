@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<exercise templateType="multichoice" styleSheet="multichoice_style.xml">
+	<title><![CDATA[3 Short answers]]></title>
+	<rubric><![CDATA[Choose the correct one.]]></rubric>
+	<audiopath></audiopath>
+	<sentence number="1" correct="1"><![CDATA[Is this your ruler?   Yes, #]]>
+		<audiotext></audiotext>
+		<ans number="1">it is.</ans>
+		<ans number="2">is it.</ans>
+		<ans number="3">is.</ans>
+	</sentence>
+	<sentence number="2" correct="3"><![CDATA[#   No, it isn’t.]]>
+		<audiotext></audiotext>
+		<ans number="1">What is this?</ans>
+		<ans number="2">Who is this?</ans>
+		<ans number="3">Is this my book? </ans>
+	</sentence>
+	<sentence number="3" correct="3"><![CDATA[Is this my bag?   #]]>
+		<audiotext></audiotext>
+		<ans number="1">This.</ans>
+		<ans number="2">Yes, is.</ans>
+		<ans number="3">Yes, it is. </ans>
+	</sentence>
+	<sentence number="4" correct="2"><![CDATA[Is he a teacher?   #]]>
+		<audiotext></audiotext>
+		<ans number="1">No, isn’t.</ans>
+		<ans number="2">No, he isn’t.</ans>
+		<ans number="3">No, he isn’t teacher.</ans>
+	</sentence>
+	<sentence number="5" correct="2"><![CDATA[#   Yes, she is.]]>
+		<ans number="1">Is he a doctor?</ans>
+		<ans number="2">Is she a doctor?</ans>
+		<ans number="3">Is she doctor?</ans>
+	</sentence>
+	<sentence number="6" correct="1"><![CDATA[Are they shorts?   Yes, #]]>
+		<audiotext></audiotext>
+		<ans number="1">they are.</ans>
+		<ans number="2">it is.</ans>
+		<ans number="3">you are.</ans>
+	</sentence>
+	<sentence number="7" correct="3"><![CDATA[Is it his hat?   #]]>
+		<audiotext></audiotext>
+		<ans number="1">No, isn’t.</ans>
+		<ans number="2">No, they aren’t.</ans>
+		<ans number="3">No, it isn’t.</ans>
+	</sentence>
+	<sentence number="8" correct="1"><![CDATA[Are they her dresses?   No, #]]>
+		<audiotext></audiotext>
+		<ans number="1">they aren’t.</ans>
+		<ans number="2">aren’t they.</ans>		
+		<ans number="3">it isn’t.</ans>
+	</sentence>
+	<sentence number="9" correct="2"><![CDATA[Are they in the garden?   #]]>
+		<audiotext></audiotext>
+		<ans number="1">No, he isn’t.</ans>
+		<ans number="2">No, they aren’t.</ans>
+		<ans number="3">No, you aren’t.</ans>
+	</sentence>
+	<sentence number="10" correct="3"><![CDATA[Is she downstairs?   Yes, #]]>
+		<audiotext></audiotext>
+		<ans number="1">she are.</ans>
+		<ans number="2">he is.</ans>
+		<ans number="3">she is.</ans>
+	</sentence>
+	<sentence number="11" correct="2"><![CDATA[#   Yes, I do.]]>
+		<audiotext></audiotext>
+		<ans number="1">Like you bananas?</ans>
+		<ans number="2">Do you like bananas?</ans>
+		<ans number="3">I like bananas?</ans>
+	</sentence>
+	<sentence number="12" correct="1"><![CDATA[Do you like elephants?   No, #]]>
+		<audiotext></audiotext>
+		<ans number="1">I don’t.</ans>
+		<ans number="2">you don’t.</ans>
+		<ans number="3">I haven’t.</ans>
+	</sentence>
+	<sentence number="13" correct="1"><![CDATA[Is there a pillow?   #]]>
+		<audiotext></audiotext>
+		<ans number="1">Yes, there is.</ans>
+		<ans number="2">Yes, there have.</ans>
+		<ans number="3">Yes, is.</ans>
+	</sentence>
+	<sentence number="14" correct="3"><![CDATA[Can it run?   #]]>
+		<audiotext></audiotext>
+		<ans number="1">No, there isn’t.</ans>
+		<ans number="2">No, it hasn’t.</ans>
+		<ans number="3">No, it can’t.</ans>
+	</sentence>
+	<sentence number="15" correct="2"><![CDATA[#   No, she can’t.]]>
+		<audiotext></audiotext>
+		<ans number="1">Can he swim?</ans>
+		<ans number="2">Can she swim?</ans>
+		<ans number="3">Can it swim?</ans>
+	</sentence>
+</exercise>

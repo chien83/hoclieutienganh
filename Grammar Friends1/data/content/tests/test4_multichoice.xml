@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<exercise templateType="multichoice" styleSheet="multichoice_style.xml">
+	<title><![CDATA[4 This and these]]></title>
+	<rubric><![CDATA[Choose the correct one.]]></rubric>
+	<audiopath></audiopath>
+	<sentence number="1" correct="1"><![CDATA[What's #   It’s a door.]]>
+		<audiotext></audiotext>
+		<ans number="1">this?</ans>
+		<ans number="2">these?</ans>
+		<ans number="3">the?</ans>
+	</sentence>
+	<sentence number="2" correct="3"><![CDATA[What’s this?   #]]>
+		<audiotext></audiotext>
+		<ans number="1">This an apple.</ans>
+		<ans number="2">Apple.</ans>
+		<ans number="3">It’s an apple.</ans>
+	</sentence>
+	<sentence number="3" correct="2"><![CDATA[#   It’s a book.]]>
+		<audiotext></audiotext>
+		<ans number="1">What this?</ans>
+		<ans number="2">What’s this?</ans>
+		<ans number="3">This what’s?</ans>
+	</sentence>
+	<sentence number="4" correct="2"><![CDATA[This is #]]>
+		<audiotext></audiotext>
+		<ans number="1">dolls.</ans>
+		<ans number="2">my doll.</ans>
+		<ans number="3">my dolls.</ans>
+	</sentence>
+	<sentence number="5" correct="3"><![CDATA[# teddy.]]>
+		<ans number="1">This is</ans>
+		<ans number="2">This my</ans>
+		<ans number="3">This is my</ans>
+	</sentence>
+	<sentence number="6" correct="3"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">Is this train?</ans>
+		<ans number="2">Is this trains?</ans>
+		<ans number="3">Is this a train?</ans>
+	</sentence>
+	<sentence number="7" correct="2"><![CDATA[# a puzzle?]]>
+		<audiotext></audiotext>
+		<ans number="1">This</ans>
+		<ans number="2">Is this</ans>
+		<ans number="3">This is</ans>
+	</sentence>
+	<sentence number="8" correct="3"><![CDATA[# her shirt?]]>
+		<audiotext></audiotext>
+		<ans number="1">Are this?</ans>
+		<ans number="2">Is</ans>		
+		<ans number="3">Is this</ans>
+	</sentence>
+	<sentence number="9" correct="1"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">Is this a kite?   Yes, it is.</ans>
+		<ans number="2">Is this kite?   Yes, it is.</ans>
+		<ans number="3">This is kite?   Yes, is.</ans>
+	</sentence>
+	<sentence number="10" correct="1"><![CDATA[# my fingers.]]>
+		<audiotext></audiotext>
+		<ans number="1">These are</ans>
+		<ans number="2">This is</ans>
+		<ans number="3">These</ans>
+	</sentence>
+	<sentence number="11" correct="1"><![CDATA[# car.]]>
+		<audiotext></audiotext>
+		<ans number="1">This is your</ans>
+		<ans number="2">These are your</ans>
+		<ans number="3">These are</ans>
+	</sentence>
+	<sentence number="12" correct="3"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">This is ball.</ans>
+		<ans number="2">These are my ball.</ans>
+		<ans number="3">This is my ball.</ans>
+	</sentence>
+	<sentence number="13" correct="2"><![CDATA[#   It’s a hat.]]>
+		<audiotext></audiotext>
+		<ans number="1">What these?</ans>
+		<ans number="2">What’s this?</ans>
+		<ans number="3">What’s these?</ans>
+	</sentence>
+	<sentence number="14" correct="2"><![CDATA[# socks.]]>
+		<audiotext></audiotext>
+		<ans number="1">This is his</ans>
+		<ans number="2">These are his</ans>
+		<ans number="3">These her</ans>
+	</sentence>
+	<sentence number="15" correct="1"><![CDATA[These #]]>
+		<audiotext></audiotext>
+		<ans number="1">are my toys.</ans>
+		<ans number="2">my toys.</ans>
+		<ans number="3">is my toy.</ans>
+	</sentence>
+</exercise>

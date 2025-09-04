@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<exercise templateType="multichoice" styleSheet="multichoice_style.xml">
+	<title><![CDATA[8 There is/are; prepositions]]></title>
+	<rubric><![CDATA[Choose the correct one.]]></rubric>
+	<audiopath></audiopath>
+	<sentence number="1" correct="3"><![CDATA[# a toy box in the bedroom.]]>
+		<ans number="1">There</ans>
+		<ans number="2">Is there</ans>
+		<ans number="3">There’s</ans>
+	</sentence>
+	<sentence number="2" correct="1"><![CDATA[# two pillows on the bed.]]>
+		<audiotext></audiotext>
+		<ans number="1">There are</ans>
+		<ans number="2">There is</ans>
+		<ans number="3">There’s</ans>
+	</sentence>
+	<sentence number="3" correct="1"><![CDATA[There's #]]>
+		<audiotext></audiotext>
+		<ans number="1">a book on the shelf.</ans>
+		<ans number="2">books on the shelf.</ans>
+		<ans number="3">five books on the shelf.</ans>
+	</sentence>
+	<sentence number="4" correct="3"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">There’s boys in the living room.</ans>
+		<ans number="2">There are a boy in the living room.</ans>
+		<ans number="3">There’s a boy in the living room.</ans>
+	</sentence>
+	<sentence number="5" correct="1"><![CDATA[There are #]]>
+		<ans number="1">three dolls.</ans>
+		<ans number="2">a doll.</ans>
+		<ans number="3">doll.</ans>
+	</sentence>
+	<sentence number="6" correct="2"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">There is teddy in the bedroom.</ans>
+		<ans number="2">There's a teddy in the bedroom.</ans>
+		<ans number="3">There a teddy in the bedroom.</ans>
+	</sentence>
+	<sentence number="7" correct="2"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">There are a chair in the living room.</ans>
+		<ans number="2">There are two chairs in the living room.</ans>
+		<ans number="3">There is two chairs in the living room.</ans>
+	</sentence>
+	<sentence number="8" correct="3"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">There's a ball under tree.</ans>
+		<ans number="2">There's a ball in tree.</ans>		
+		<ans number="3">There's a ball under the tree.</ans>
+	</sentence>
+	<sentence number="9" correct="1"><![CDATA[There's a book #]]>
+		<audiotext></audiotext>
+		<ans number="1">on the shelf.</ans>
+		<ans number="2">on shelf.</ans>
+		<ans number="3">in the shelf.</ans>
+	</sentence>
+	<sentence number="10" correct="2"><![CDATA[Is there #]]>
+		<audiotext></audiotext>
+		<ans number="1">a bed on the room?</ans>
+		<ans number="2">a bed in the room?</ans>
+		<ans number="3">two beds in the room?</ans>
+	</sentence>
+	<sentence number="11" correct="2"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">There are three dolls on swing.</ans>
+		<ans number="2">There are three dolls on the swing.</ans>
+		<ans number="3">There are three dolls on a swings.</ans>
+	</sentence>
+	<sentence number="12" correct="1"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">Is there a car under the bed?</ans>
+		<ans number="2">Is there car under the bed?</ans>
+		<ans number="3">Are there a car under the bed?</ans>
+	</sentence>
+	<sentence number="13" correct="3"><![CDATA[Is there a bed in the room?   #]]>
+		<audiotext></audiotext>
+		<ans number="1">No, there doesn’t.</ans>
+		<ans number="2">No, it isn’t.</ans>
+		<ans number="3">No, there isn’t.</ans>
+	</sentence>
+	<sentence number="14" correct="3"><![CDATA[Is there a shirt in the cupboard?   #]]>
+		<audiotext></audiotext>
+		<ans number="1">Yes, is.</ans>
+		<ans number="2">Yes, there isn’t.</ans>
+		<ans number="3">Yes, there is.</ans>
+	</sentence>
+	<sentence number="15" correct="3"><![CDATA[Is there a train in the toy box?   No, there #]]>
+		<audiotext></audiotext>
+		<ans number="1">is.</ans>
+		<ans number="2">are.</ans>
+		<ans number="3">isn’t.</ans>
+	</sentence>
+</exercise>

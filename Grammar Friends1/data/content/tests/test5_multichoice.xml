@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<exercise templateType="multichoice" styleSheet="multichoice_style.xml">
+	<title><![CDATA[5 Possession]]></title>
+	<rubric><![CDATA[Choose the correct one.]]></rubric>
+	<audiopath></audiopath>
+	<sentence number="1" correct="2"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">It’s a hats.</ans>
+		<ans number="2">It’s my hat.</ans>
+		<ans number="3">It’s hat.</ans>
+	</sentence>
+	<sentence number="2" correct="2"><![CDATA[You’ve got a puzzle.  It’s #]]>
+		<audiotext></audiotext>
+		<ans number="1">puzzle.</ans>
+		<ans number="2">your puzzle.</ans>
+		<ans number="3">my puzzle.</ans>
+	</sentence>
+	<sentence number="3" correct="1"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">Is this your kite?</ans>
+		<ans number="2">Is this kite?</ans>
+		<ans number="3">Is this kite your?</ans>
+	</sentence>
+	<sentence number="4" correct="1"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">This is your hat.</ans>
+		<ans number="2">This is your hats.</ans>
+		<ans number="3">This hat is your.</ans>
+	</sentence>
+	<sentence number="5" correct="3"><![CDATA[]]>
+		<ans number="1">Are these your sock?</ans>
+		<ans number="2">Are these my sock?</ans>
+		<ans number="3">Are these my socks?</ans>
+	</sentence>
+	<sentence number="6" correct="3"><![CDATA[I’ve got a brother.   # brother.]]>
+		<audiotext></audiotext>
+		<ans number="1">He’s your</ans>
+		<ans number="2">This my</ans>
+		<ans number="3">He’s my</ans>
+	</sentence>
+	<sentence number="7" correct="1"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">They’re her coats.</ans>
+		<ans number="2">They’re her coat.</ans>
+		<ans number="3">They her coat.</ans>
+	</sentence>
+	<sentence number="8" correct="2"><![CDATA[He’s got an apple. It’s #]]>
+		<audiotext></audiotext>
+		<ans number="1">her apple.</ans>
+		<ans number="2">his apple.</ans>		
+		<ans number="3">my apple.</ans>
+	</sentence>
+	<sentence number="9" correct="2"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">Are they my trouser?</ans>
+		<ans number="2">Are they his trousers?</ans>
+		<ans number="3">Are they trousers his?</ans>
+	</sentence>
+	<sentence number="10" correct="3"><![CDATA[She’s got four dresses.   # dresses.]]>
+		<audiotext></audiotext>
+		<ans number="1">They’re his</ans>
+		<ans number="2">They’re she</ans>
+		<ans number="3">They’re her</ans>
+	</sentence>
+	<sentence number="11" correct="1"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">She’s his sister.</ans>
+		<ans number="2">She’s sister.</ans>
+		<ans number="3">She’s his sisters.</ans>
+	</sentence>
+	<sentence number="12" correct="3"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">Is he father?</ans>
+		<ans number="2">Is her father?</ans>
+		<ans number="3">Is he her father?</ans>
+	</sentence>
+	<sentence number="13" correct="1"><![CDATA[Sue’s got an orange. It’s #]]>
+		<audiotext></audiotext>
+		<ans number="1">Sue’s orange.</ans>
+		<ans number="2">Sues orange.</ans>
+		<ans number="3">Sue her orange.</ans>
+	</sentence>
+	<sentence number="14" correct="2"><![CDATA[]]>
+		<audiotext></audiotext>
+		<ans number="1">Mrs Smith is Tommy mum.</ans>
+		<ans number="2">Mrs Smith is Tommy’s mum.</ans>
+		<ans number="3">Mrs Smith’s Tommy mum.</ans>
+	</sentence>
+	<sentence number="15" correct="1"><![CDATA[# shoes?]]>
+		<audiotext></audiotext>
+		<ans number="1">Are they Grandma’s</ans>
+		<ans number="2">Are they Grandmas</ans>
+		<ans number="3">Are they Grandma her</ans>
+	</sentence>
+</exercise>

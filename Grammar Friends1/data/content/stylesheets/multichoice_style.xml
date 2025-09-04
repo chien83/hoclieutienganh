@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<styles antiAlias="true">
+	<title xpos="18" ypos="0" width="800">
+		<image>shared_assets/gsm/rubric.swf</image>
+	</title>	
+	<rubric xpos="18" ypos="60" width="800">
+		<image>shared_assets/gsm/rubric.swf</image>
+	</rubric>
+	<images>
+<!--	<image item="background">shared_assets/gsm/background.jpg</image>-->
+		<image item="tickCross">shared_assets/gsm/tickcross.swf</image> <!--position defined by tick dummy in rbAnswer-->
+	</images>
+	<buttons>
+		<button item="next" xpos="18" ypos="300">
+			<image>shared_assets/gsm/button_next.swf</image>
+		</button>
+		<button item="check_score" xpos="18" ypos="300">
+			<image>shared_assets/gsm/button_check_score.swf</image>
+		</button>
+<!--	Hide audio button as there's no audio in this version -->
+<!--	<button item="playAudio" xpos="25" ypos="90">
+			<image>shared_assets/gsm/button_play_Audio.swf</image>
+		</button>	-->
+	</buttons>
+	<sounds>
+		<sound item="rightsound">
+			<link>shared_assets/gsm/correct.mp3</link>
+		</sound>
+		<sound item="wrongsound">
+			<link>shared_assets/gsm/wrong.mp3</link>
+		</sound>
+	</sounds>
+	<assets>
+		<asset item="questionText" visible="true" xpos="18" ypos="100" width="742" size="13" bold="true"/>
+
+	<!--	<asset item="audioText" visible="true" xpos="200" ypos="95" width="600" size="15" bold="true"/>-->
+	<!--	No Audio, therefore no audio text needed -->
+
+		<asset item="radioButton" visible="true" xpos="40" ypos="180" ystep="25" xstep="200" columns="1">
+			<image>shared_assets/gsm/rbAnswer.swf</image>
+		</asset>
+		<asset item="progressbar" visible="true" xpos="18" ypos="350">
+			<image>shared_assets/gsm/progressbar.swf</image>
+		</asset>
+		<asset item="scorepop" visible="false" xpos="300" ypos="100">
+			<image>shared_assets/gsm/scorepop.swf</image>
+		</asset>
+		
+	</assets>
+	<feedbacklist>
+		<feedback score="20%">Oh dear! Try again.</feedback><!--if score is less than or equal to value-->
+		<feedback score="60%">Good try.</feedback>
+		<feedback score="90%">Well done!</feedback>
+		<feedback score="100%">Excellent!</feedback>
+	</feedbacklist>
+</styles>
